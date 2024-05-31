@@ -1,7 +1,3 @@
-Here's a sample README file with launch instructions and endpoint descriptions:
-
----
-
 # Quiz App
 
 ## Introduction
@@ -23,4 +19,3 @@ This is a Quiz App developed using Python and FastAPI.
     ```
 
 4. Once the Docker containers are up and running, you can access the Quiz App at `http://localhost:8000`.
-   
